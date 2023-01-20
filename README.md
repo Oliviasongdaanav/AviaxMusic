@@ -138,4 +138,4 @@ If you want to say **thank you** or/and support active development of AviaxMusic
 
 The original setup of this repository is by [Team Yukki](https://github.com/TeamYukki).
 
-For a full list of all authors and contributors, see [the contributors page](https://github.com/TeamYukki/YukkiMusicBot/contributors).
+For a full list of all authors and contributors, see [the contributors page](https://github.com/oliviasongdaanav/YukkiMusicBot/contributors).
