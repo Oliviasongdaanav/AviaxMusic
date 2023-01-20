@@ -103,7 +103,7 @@ For more information on the technologies that power the AviaxMusic, check out th
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/TeamAviax/AviaxMusic
+shikhar@MacBook~ $ git clone https://github.com/oliviasongdaanav/AviaxMusic
 shikhar@MacBook~ $ cd AviaxMusic
 shikhar@MacBook~ $ sudo bash setup
 ```
@@ -124,14 +124,14 @@ shikhar@MacBook~ $ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [Updates Channel](https://telegram.me/AviaxOfficial)
-- [Support Group](https://telegram.me/AviaxSupport)
+- [Updates Channel](https://telegram.me/Tsw_official)
+- [Support Group](https://telegram.me/Team_star_world)
 
 ## 🎗 Project assistance
 
 If you want to say **thank you** or/and support active development of AviaxMusic:
 
-- Add a [GitHub Star](https://github.com/TeamAviax/AviaxMusic) to the project.
+- Add a [GitHub Star](https://github.com/oliviasongdaanavx/AviaxMusic) to the project.
 - Fork the Repo :)
 
 ## 👨🏻‍💻 Authors & contributors
